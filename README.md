@@ -1,7 +1,7 @@
-# Codebase Usage
+# Fouton Changes
 If using the codebase, unzip the "Unzip" folder in the main directory to create the assets directory. I'm too lazy to learn how to use pngs in github so thats how it is.
 
-## Fouton Changes
+## Regions
 Added Region lines to the maps, and the ability to track their quantities like a dungeon's vitals/checks.
 * Right click to increment
 * Scroll wheel to change totals
