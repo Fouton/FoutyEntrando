@@ -20,8 +20,8 @@ boot_splash/image="res://assets/sushi.png"
 boot_splash/fullsize=false
 boot_splash/use_filter=false
 boot_splash/bg_color=Color( 0.0784314, 0.0784314, 0.0784314, 1 )
-config/icon="res://assets/icon.png"
-config/windows_native_icon="res://assets/icon.ico"
+config/icon="res://assets/icons/connectors/mountain_cave.png"
+config/windows_native_icon="res://assets/FoutonIcon.ico"
 
 [autoload]
 
