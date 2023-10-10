@@ -3,9 +3,9 @@ If using the codebase, unzip the "Unzip" folder in the main directory to create 
 
 # Fouton Changes
 Added Region lines to the maps, and the ability to track their quantities like a dungeon's vitals/checks.
-Right click to increment
-Scroll wheel to change totals
-Left click to edit further (like a dungeon, didnt put the effort into make its own type)
+* Right click to increment
+* Scroll wheel to change totals
+* Left click to edit further (like a dungeon, didnt put the effort into make its own type)
 
 # Entrando Tracker
 
