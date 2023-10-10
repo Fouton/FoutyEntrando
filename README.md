@@ -1,6 +1,5 @@
 # Fouton Changes
-To edit Fouton's code, make sure to unzip the zipped folder in assets > icons > regions
-Adds Region lines & the ability to track their quantities
+If using the codebase, unzip the "Unzip" folder in the main directory to create the assets directory. I'm too lazy to learn how to use pngs in github so thats how it is.
 
 # Entrando Tracker
 
